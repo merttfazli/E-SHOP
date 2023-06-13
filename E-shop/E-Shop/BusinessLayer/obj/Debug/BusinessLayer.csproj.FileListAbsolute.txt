@@ -1,0 +1,36 @@
+C:\Users\merts\Masaüstü\E-Shop\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\merts\Masaüstü\E-Shop\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\merts\Masaüstü\E-Shop\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\merts\Masaüstü\E-Shop\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\merts\Masaüstü\E-Shop\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\merts\Masaüstü\E-Shop\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\merts\Masaüstü\E-Shop\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\merts\Masaüstü\E-Shop\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\merts\Masaüstü\E-Shop\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\merts\Masaüstü\E-Shop\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\merts\Masaüstü\E-Shop\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\merts\Masaüstü\E-Shop\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\merts\Masaüstü\E-Shop\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\merts\Masaüstü\E-Shop\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\merts\Masaüstü\E-Shop\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\merts\Masaüstü\E-Shop\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\merts\Masaüstü\E-Shop\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\merts\Masaüstü\E-Shop\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\iwp proje\E-Shop\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\iwp proje\E-Shop\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\iwp proje\E-Shop\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\iwp proje\E-Shop\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\iwp proje\E-Shop\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\iwp proje\E-Shop\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\iwp proje\E-Shop\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\iwp proje\E-Shop\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\iwp proje\E-Shop\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\iwp proje\E-Shop\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\iwp proje\E-Shop\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\iwp proje\E-Shop\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\iwp proje\E-Shop\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\iwp proje\E-Shop\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\iwp proje\E-Shop\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\iwp proje\E-Shop\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\iwp proje\E-Shop\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\iwp proje\E-Shop\BusinessLayer\obj\Debug\BusinessLayer.pdb
